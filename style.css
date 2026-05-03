@@ -16,7 +16,27 @@
   margin-bottom: 20px;
 }
 
+body {
+  margin: auto;
+  text-align: center;
+  width: 75%;
+  background-image: url(BLANKET.jpg);
+  background-size: cover;
+} 
+
+
+
 hr {
   height: 5px;
   background-color: black;
+}
+
+img{
+  width :200px;
+  height: 200px;
+  border-radius: 5px;
+}
+
+movie-form {
+  width: 400px;
 }
