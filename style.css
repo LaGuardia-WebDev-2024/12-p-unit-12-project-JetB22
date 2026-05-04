@@ -7,6 +7,10 @@
   margin-bottom: 20px;
 }
 
+h1{
+  margin-top: 50px;
+}
+
 #book-result {
   background: rgb(196, 159, 255);
   border: 5px solid black;
@@ -39,4 +43,8 @@ img{
 
 movie-form {
   width: 400px;
+}
+
+select{
+  
 }
